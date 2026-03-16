@@ -542,3 +542,19 @@ transform:scale(1.08);
 border:1px solid #2563eb;
 box-shadow:0 20px 40px rgba(37,99,235,0.25);
 }
+
+.edu-right a{
+text-decoration:none;
+background:#eef4ff;
+padding:6px 14px;
+border-radius:20px;
+color:#1e3a8a;
+font-weight:500;
+border:1px solid #bdd3f0;
+transition:0.2s;
+}
+
+.edu-right a:hover{
+background:#2563eb;
+color:white;
+}
