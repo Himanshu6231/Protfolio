@@ -1463,3 +1463,14 @@ img { display: block; max-width: 100%; }
   background: rgba(99,102,241,0.3);
   color: var(--text);
 }
+
+.skill-proof p {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-bottom: 0.8rem;
+  line-height: 1.6;
+}
+
+.skill-proof strong {
+  color: var(--text);
+}
